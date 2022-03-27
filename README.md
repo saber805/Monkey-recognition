@@ -1,4 +1,5 @@
 # Monkey-recognition(based on Pytorch)
+pytorch == 1.8.1+cu102
 The dataset can be found on Kaggle. Named 10 Monkey Species .
 Using VGG16 backbone as feature extraction.Just change the MLP.
 And training 80epoch and got 98% accuracy on Test set.It took a long time.
