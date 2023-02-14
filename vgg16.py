@@ -121,7 +121,7 @@ plt.subplots_adjust(hspace=0.3)
 '''
 
 # optimizer = torch.optim.SGD(Myvggc.parameters(), lr=0.003)
-# loss_func = nn.CrossEntropyLoss()  #交叉熵损失函数，有点难，
+# loss_func = nn.CrossEntropyLoss()  #交叉熵损失函数
 #
 #
 # train_loss = []
